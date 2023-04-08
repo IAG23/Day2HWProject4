@@ -9,4 +9,6 @@ public class HWProject4 {
 	public void getData() {
 
 }
+	public void getPhoneNumber() {
+}
 }
